@@ -40,7 +40,7 @@
 
 ### 1. リポジトリをクローン
 ```bash
-git clone <repository-url>
+git clone https://github.com/rhyeshei/bookshelf.git
 cd bookproject
 ```
 
